@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Allow: /index.php
+Allow: /LICENSE
+Allow: /license.php
+Allow: /portfolio.php
+Allow: /products.php
+Disallow: /images/
+Disallow: /includes/
+Sitemap: /sitemap.txt
